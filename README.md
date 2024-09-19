@@ -1,65 +1,35 @@
-# Calculator
+# Python Study Proyects 🐍💻🧮
+In this project, we will see the usefulness of basic tkinter and mastery of logic in python, this project is not finished, little by little I will modify things to make it more attractive, with more functions etc.
+
+The goal of this repository is to centralize the projects and challenges I've completed while learning Python. Some of the topics covered include:
+
+## Table of Contents 📚
+- [Installation](#installation-)
+- [Usage](#usage-)
+- [Project Structure](#project-structure-)
+- [Contributing](#contributing-)
+- [License](#license-)
 
 
-Python Calculator with Tkinter
+## Installation 🛠️
 
+To run the scripts in this repository, you'll need Python installed on your machine. Here are the steps to set it up:
 
-Description
-This project is a basic calculator created using Python and Tkinter for the graphical user interface (GUI). Currently, the project is in its initial stages and has the essential functions of a calculator. In the future, more features and improvements are planned.
+1. Clone this repository:
+    ```
+    bash
+    git clone https://https://github.com/DevAlejandro2007/Calculato.git
+    ```
 
-Features
-Addition
-Subtraction
-Multiplication
-Division
-Simple and user-friendly graphical interface
-Requirements
-To run this project on your system, you need to have the following components installed:
+    ## Usage 🚀
 
-Python 3.x
-Tkinter (pre-installed in most Python distributions)
-Installation
-Clone this repository to your local machine:
+To run the scripts or projects, navigate to the corresponding folder and execute the Python file. For example:
 
+```
 bash
-Copiar código
-git clone https://github.com/your-username/calculator-tkinter.git
-Navigate to the project directory:
+cd folder-name
+python script.py
+```
 
-bash
-Copiar código
-cd calculator-tkinter
-(Optional) Create a virtual environment for the project:
 
-bash
-Copiar código
-python -m venv env
-source env/bin/activate   # For Linux or Mac users
-env\Scripts\activate      # For Windows users
-Install the necessary dependencies (for now, Tkinter comes pre-installed with Python):
-
-bash
-Copiar código
-pip install -r requirements.txt
-Usage
-To run the calculator, simply execute the main project file:
-
-bash
-Copiar código
-python calculator.py
-Future Improvements
-As the project progresses, the following improvements are planned:
-
-Support for advanced operations (exponentiation, roots, etc.).
-Calculation history to keep track of performed calculations.
-Improved GUI design.
-Keyboard shortcuts to allow calculations via keyboard.
-Additional validations to prevent errors (like division by zero).
-Contributions
-If you would like to contribute to this project, you're welcome! You can do so by following these steps:
-
-Fork the repository.
-Create a new branch (git checkout -b feature/new-feature).
-Make your changes and commit them (git commit -m 'Add new feature').
-Push your branch (git push origin feature/new-feature).
-Open a pull request to review your changes.
+This is a personal repository, but any suggestions or corrections are welcome. If you want to contribute, please feel free to create an issue or submit a pull request with your recommendations or improvements.
